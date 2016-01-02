@@ -1,8 +1,0 @@
-{
-	"type": "Live2D Model Setting",
-	"name": "chino",
-	"model": "chino.moc",
-	"textures": [
-		"chino.2048/texture_00.png"
-	]
-}
