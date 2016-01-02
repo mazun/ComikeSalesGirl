@@ -1,5 +1,9 @@
 # README
 
+## Web版デモ
+
+http://mazun.github.io/ComikeSalesGirl/html/
+
 ## 動かし方
 
 Unityはインストール済みの前提とします。  
