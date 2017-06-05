@@ -1,20 +1,20 @@
 # README
 
-## Web�Ńf��
+## Web版デモ
 
 http://mazun.github.io/ComikeSalesGirl/html/
 
-## ��������
+## 動かし方
 
-Unity�̓C���X�g�[���ς݂̑O��Ƃ��܂��B  
-�Ȃ��AWindows7�ȊO�̊��ł�����������؂��Ă��܂���B  
-���C�Z���X�̓s������SDK����уt�H���g�͊܂߂Ă��Ȃ��̂ŁA�ȉ��̎菇�Ŏ��s���܂��B  
-2��4�͏ȗ��\�ŏȗ������ꍇ�ɂ�Unity�ɕt���̃t�H���g���g���悤�ɂȂ��Ă��܂��B
+Unityはインストール済みの前提とします。  
+なお、Windows7の環境でしか動作を検証していません。  
+ライセンスの都合からSDKおよびフォントは含めていないので、以下の手順で実行します。  
+2と4は省略可能で省略した場合にはUnityに付属のフォントを使うようになっています。
 
-1. http://sites.cybernoids.jp/cubism-sdk2/unity2-1 ����SDK���_�E�����[�h���ēW�J����B�W�J�������g�̂�����sample/SimpleApp1/ �ɖ{���|�W�g���̃t�@�C����S�ăR�s�[����B
-2. (http://azukifont.com/font/uzura.html ���炤����t�H���g���_�E�����[�h���ēW�J����Buzura.ttf��sample/SimpleApp1/Assets/Resources/uzura.ttf�ɃR�s�[����B)
-3. sample/SimpleApp1/Assets/Scene/main.unity ���J���B
-4. (�V�[������ Canvas/�`�m�t�L�_�V/�{�� ��Text����Font�ɐ�قǂ�uzura.ttf��ݒ肷��)
+1. http://sites.cybernoids.jp/cubism-sdk2/unity2-1 からSDKをダウンロードして展開する。展開した中身のうちのsample/SimpleApp1/ に本リポジトリのファイルを全てコピーする。
+2. (http://azukifont.com/font/uzura.html からうずらフォントをダウンロードして展開する。uzura.ttfをsample/SimpleApp1/Assets/Resources/uzura.ttfにコピーする。)
+3. sample/SimpleApp1/Assets/Scene/main.unity を開く。
+4. (シーン内の Canvas/チノフキダシ/本文 のText内のFontに先ほどのuzura.ttfを設定する)
 
 ## License
 
